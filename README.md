@@ -2,7 +2,7 @@
 A game of life like program where Qubits are created to destroyed based on a set of rules
 The number on each Qubit is it's super position state. A 50 means the Qubit has a 50% chance of collapsing
 to a One and Zero. A 60 means there is a 60% chance of collapsing to a One and a 40% chance of collapsing
-to a Zero. When two Qubits collide into each other, their states collapse. There super position state is then 
+to a Zero. When two Qubits collide into each other, their states collapse. Their super position state is then 
 changed based on this logic:</br>
 <hr>
 Qubit1  => One  and Qubit2 => One   Both increase by 10. </br>
